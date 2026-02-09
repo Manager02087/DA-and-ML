@@ -1,6 +1,6 @@
 # DA-and-ML
 Data Analytics and ML
-# 📊 EST Team: Data Analytics & Machine Learning Project 1
+# 📊EST Team: Data Analytics & Machine Learning Project 1
 
 ![Project Status](https://img.shields.io/badge/Status-In--Progress-yellow)
 ![Tools](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20ML-blue)
