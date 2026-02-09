@@ -1,6 +1,6 @@
 # DA-and-ML
 Data Analytics and ML
-# 📊 EST Team: Data Analytics & Machine Learning Project
+# 📊 EST Team: Data Analytics & Machine Learning Project 1
 
 ![Project Status](https://img.shields.io/badge/Status-In--Progress-yellow)
 ![Tools](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20ML-blue)
@@ -10,14 +10,18 @@ This project is being implemented by the **EST** team as part of the "Data Analy
 
 ---
 
+---
+
 ## 👥 Team Information (EST Team)
 
-| Role | Name | GitHub Responsibility | ID | Contact |
-| :--- | :--- | :--- | | :--- | | :--- |
-| **Team Leader** | **TEMUR SHIRINBOYEV** | Project Architecture, Git Management & Final Integration | 202490298 | @manager0208 and +99894 613 00 54 |
-| **Data Analyst** | **ELBEK HAZRATQULOV** | Data Cleaning, Statistical Summaries & Feature Engineering | 202490143 | @vip_ismoilov |
-| **ML Engineer** | **SUXROB HAZRATQULOV** | Predictive Modeling, K-Means Clustering & Model Tuning | 202490129 | @Hazratqulov_s |
-| **Viz Specialist** | **ASADBEK ABDULLAJANOV** | EDA Visualization, Dashboarding & Insight Reporting | 202490010 | @Divergent_11 |
+| Role | Name | GitHub Responsibility | Student ID | Contact |
+| :--- | :--- | :--- | :--- | :--- |
+| **🥇 Team Leader** | **TEMUR SHIRINBOYEV** | Project Architecture, Git Management & Final Integration | `202490298` | [Telegram](https://t.me/manager0208) / +99894 613 00 54 |
+| **📊 Data Analyst** | **ELBEK HAZRATQULOV** | Data Cleaning, Statistical Summaries & Feature Engineering | `202490143` | [Telegram](https://t.me/vip_ismoilov) |
+| **🤖 ML Engineer** | **SUXROB HAZRATQULOV** | Predictive Modeling, K-Means Clustering & Model Tuning | `202490129` | [Telegram](https://t.me/Hazratqulov_s) |
+| **🎨 Viz Specialist** | **ASADBEK ABDULLAJANOV** | EDA Visualization, Dashboarding & Insight Reporting | `202490010` | [Telegram](https://t.me/Divergent_11) |
+
+---
 
 ---
 
