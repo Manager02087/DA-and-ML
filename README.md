@@ -17,7 +17,7 @@ This project is being implemented by the **EST** team as part of the "Data Analy
 | Role | Name | GitHub Responsibility | Student ID | Contact |
 | :--- | :--- | :--- | :--- | :--- |
 | **🥇 Team Leader** | **TEMUR SHIRINBOYEV** | Project Architecture, Git Management & Final Integration | `202490298` | [Telegram](https://t.me/manager0208) / +99894 613 00 54 |
-| **📊 Data Analyst** | **ELBEK HAZRATQULOV** | Data Cleaning, Statistical Summaries & Feature Engineering | `202490143` | [Telegram](https://t.me/vip_ismoilov) |
+| **📊 Data Analyst** | **ELBEK ISMOILOV** | Data Cleaning, Statistical Summaries & Feature Engineering | `202490143` | [Telegram](https://t.me/vip_ismoilov) |
 | **🤖 ML Engineer** | **SUXROB HAZRATQULOV** | Predictive Modeling, K-Means Clustering & Model Tuning | `202490129` | [Telegram](https://t.me/Hazratqulov_s) |
 | **🎨 Viz Specialist** | **ASADBEK ABDULLAJANOV** | EDA Visualization, Dashboarding & Insight Reporting | `202490010` | [Telegram](https://t.me/Divergent_11) |
 
