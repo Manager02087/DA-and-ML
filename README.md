@@ -14,12 +14,12 @@ This project is being implemented by the **EST** team as part of the "Data Analy
 
 ## 👥 Team Information (EST Team)
 
-| Role | Name | GitHub Responsibility | Student ID | Contact |
+| Role | Name | GitHub Profile | Student ID | Contact |
 | :--- | :--- | :--- | :--- | :--- |
-| **🥇 Team Leader** | **TEMUR SHIRINBOYEV** | Project Architecture, Git Management & Final Integration | `202490298` | [Telegram](https://t.me/manager0208) / +99894 613 00 54 |
-| **📊 Data Analyst** | **ELBEK ISMOILOV** | Data Cleaning, Statistical Summaries & Feature Engineering | `202490143` | [Telegram](https://t.me/vip_ismoilov) |
-| **🤖 ML Engineer** | **SUXROB HAZRATQULOV** | Predictive Modeling, K-Means Clustering & Model Tuning | `202490129` | [Telegram](https://t.me/Hazratqulov_s) |
-| **🎨 Viz Specialist** | **ASADBEK ABDULLAJANOV** | EDA Visualization, Dashboarding & Insight Reporting | `202490010` | [Telegram](https://t.me/Divergent_11) |
+| **🥇 Team Leader** | **TEMUR SHIRINBOYEV** | [managere02087](https://github.com/Manager02087) | `202490298` | [Telegram](https://t.me/manager0208) |
+| **📊 Data Analyst** | **ELBEK ISMOILOV** | [vipismoilov0111](https://github.com/vipismoilov0111) | `202490143` | [Telegram](https://t.me/vip_ismoilov) |
+| **🤖 ML Engineer** | **SUXROB HAZRATQULOV** | [suxrob0506](https://github.com/suxrob0506) | `202490129` | [Telegram](https://t.me/Hazratqulov_s) |
+| **🎨 Viz Specialist** | **ASADBEK ABDULLAJANOV** | [asad1302](https://github.com/asadbekabdullajanov06-jpg) | `202490010` | [Telegram](https://t.me/Divergent_11) |
 
 ---
 
