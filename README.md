@@ -8,6 +8,7 @@ Data Analytics and ML
 ## 📝 Project Overview
 This project is being implemented by the **EST** team as part of the "Data Analytics & Machine Learning" course. The main goal of the project is to analyze online sales data, study customer purchasing behavior, and segment customers using ML models.
 
+Dataset web:https://www.kaggle.com/datasets/vijayuv/onlineretail⁠
 ---
 
 ---
