@@ -31,19 +31,19 @@ Dataset web:https://www.kaggle.com/datasets/vijayuv/onlineretail⁠
 
 
 ### 📅 Week 1: Foundation & Setup
-- [✅] Create GitHub Repository and invitation of members.
+- [] Create GitHub Repository and invitation of members.
 - [✅] Source dataset: [UCI Machine Learning Repository - Online Retail II](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II).
-- [✅] Basic data exploration (`head`, `info`, `describe`).
+- [] Basic data exploration (`head`, `info`, `describe`).
 
 ### 📅 Week 2: Data Preprocessing
-- [✅] Dealing with Missing Values (NaN) and Duplicates.
-- [✅] Filtering negative values in `Quantity` and `Price` (Cancelled orders).
-- [✅] Feature formatting: Converting `InvoiceDate` to datetime objects.
+- [] Dealing with Missing Values (NaN) and Duplicates.
+- [] Filtering negative values in `Quantity` and `Price` (Cancelled orders).
+- [] Feature formatting: Converting `InvoiceDate` to datetime objects.
 
 ### 📅 Week 3: Exploratory Data Analysis (EDA)
-- [✅] Sales analysis by Country and Date.
-- [✅] Identifying Top-Selling products and Revenue drivers.
-- [✅] **RFM Calculation:** Calculating Recency, Frequency, and Monetary values for each customer.
+- [] Sales analysis by Country and Date.
+- [] Identifying Top-Selling products and Revenue drivers.
+- [] **RFM Calculation:** Calculating Recency, Frequency, and Monetary values for each customer.
 
 
 
